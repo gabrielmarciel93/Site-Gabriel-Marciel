@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "3c1d3be3-1126-440a-84f9-518839f0b741",
+    "id": "2c7dbdf9-a2f0-45bf-b896-42782e32823a",
     "projectId": "8816130d-d432-4ad2-8116-915be45ca807",
-    "version": 43,
-    "createdAt": "2025-10-20T22:53:33.785+00:00",
-    "updatedAt": "2025-10-20T22:53:33.785+00:00",
+    "version": 48,
+    "createdAt": "2025-10-20T23:11:19.8+00:00",
+    "updatedAt": "2025-10-20T23:11:19.8+00:00",
     "pages": {
       "meta": {
         "siteName": "Gabriel Marciel",
@@ -16675,6 +16675,18 @@
           "value": {
             "type": "keyword",
             "value": "none"
+          }
+        }
+      ],
+      [
+        "g_eCHn7tO6k3eFUAKFrQ-:Xb3sqS8dgX7awUL3SLT0r:fontWeight:",
+        {
+          "breakpointId": "Xb3sqS8dgX7awUL3SLT0r",
+          "styleSourceId": "g_eCHn7tO6k3eFUAKFrQ-",
+          "property": "fontWeight",
+          "value": {
+            "type": "keyword",
+            "value": "400"
           }
         }
       ]
