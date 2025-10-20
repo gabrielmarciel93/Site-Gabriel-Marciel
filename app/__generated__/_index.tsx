@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2025-10-20T22:53:33.785Z";
+      export const lastPublished = "2025-10-29T19:49:47.781Z";
 
       export const siteName = "Gabriel Marciel";
 
@@ -308,7 +308,7 @@ className={`w-element c6vb952 ckfi1xt c17u4b8q c13lyfrw c9gmgxg cpqv1fw`}>
 {"Suporte de TI para micro e pequenas empresas"}
 </h1>
 <h2
-className={`w-element c1bc2myl cmc5btu clnphtk`}>
+className={`w-element c1bc2myl cm5h20y cmc5btu clnphtk`}>
 {"Atendimento técnico ágil e empático, oferecendo soluções de Configuração de rede, Infraestrutura e Wordpress."}
 </h2>
 </div>
@@ -1572,7 +1572,7 @@ className={`w-element`} />
 <div
 className={`w-element cn26m3o c1709m87 cjtez6m cpp80dt cv3x9lj czko6jm c1u7fx7p c10ie1dq c1vpvwq6 c1lyclr9`}>
 <div
-className={`w-element c1ij51x0 cn26m3o cyil8b1 c1xextg7 c17jwnhk cc6nv2o c1v51gng cejuuhg c10b9bu c1ompa51 cvnrxtf c1hmmyog c1vmldux c1mwnzp1 cl5irm8 c1xox8ob c1prd5e8 cc3hp1e c150skuk c1usrxy7 c20u200`}>
+className={`w-element c1ij51x0 cn26m3o cyil8b1 c1xextg7 c17jwnhk cc6nv2o c1v51gng cejuuhg c10b9bu c1ompa51 cvnrxtf c1hmmyog c1duj3jw cio9y4v cl5irm8 c1xox8ob c1prd5e8 cc3hp1e c150skuk c1usrxy7 c20u200`}>
 <p
 className={`w-element csbqaij`}>
 {"Suporte em TI"}
@@ -1614,7 +1614,7 @@ className={`w-element cz8woxh c1t4cmws cxm34xg c17u4950 cg449kk c12cjwv5 c124ufe
 </div>
 </div>
 <div
-className={`w-element c1ij51x0 cn26m3o cyil8b1 c1xextg7 c17jwnhk cc6nv2o c1v51gng cejuuhg c10b9bu c1ompa51 cvnrxtf c1hmmyog c1vmldux c1mwnzp1 cqqny62 c1gmp58f c1prd5e8 cc3hp1e c150skuk c1usrxy7 c20u200`}>
+className={`w-element c1ij51x0 cn26m3o cyil8b1 c1xextg7 c17jwnhk cc6nv2o c1v51gng cejuuhg c10b9bu c1ompa51 cvnrxtf c1hmmyog c1duj3jw cio9y4v cqqny62 c1gmp58f c1prd5e8 cc3hp1e c150skuk c1usrxy7 c20u200`}>
 <p
 className={`w-element csbqaij`}>
 {"Configuração de Servidores"}
