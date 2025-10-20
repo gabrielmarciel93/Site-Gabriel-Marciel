@@ -10,14 +10,14 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2025-10-20T20:58:13.852Z";
+      export const lastPublished = "2025-10-20T22:15:34.089Z";
 
-      export const siteName = undefined;
+      export const siteName = "Gabriel Marciel";
 
       export const breakpoints = [{"id":"Xb3sqS8dgX7awUL3SLT0r"},{"id":"qFEdqDttMrHqhWgF_js9t","maxWidth":991},{"id":"UsDiXwN3YjLyaoHoDwHnZ","maxWidth":767},{"id":"9GW-_38PT6gPyAUHp8fEp","maxWidth":479}];
 
       export const favIconAsset: string | undefined =
-        undefined;
+        "favicon_rxejvwj3RYwph0aZ7mHE-.webp";
 
       // Font assets on current page (can be preloaded)
       export const pageFontAssets: string[] =
@@ -55,6 +55,8 @@ className={`w-element c11a1oz6 ch2vy06 cn1f0iv c1ol8iu0 c7if4l1`}>
 {"PAGE NOT FOUND"}
 </p>
 </div>
+<div
+className={`w-element c1mzqz1h c17vex0v crlqmsf`}>
 <Link
 href={"https://webstudio.is/?via=badge"}
 target={"_blank"}
@@ -67,6 +69,7 @@ className={`w-element`}>
 {"Built with Webstudio"}
 </div>
 </Link>
+</div>
 </Body>
 }
 

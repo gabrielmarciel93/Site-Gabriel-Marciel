@@ -21,10 +21,10 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "Home",
-    description: undefined,
-    excludePageFromSearch: undefined,
-    language: undefined,
+    title: "Gabriel Marciel | Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura",
+    description: "Gabriel Marciel é analista de TI em Nova Iguaçu especializado em suporte técnico, configuração de rede, infraestrutura e desenvolvimento de sites WordPress para micro e pequenas empresas.",
+    excludePageFromSearch: false,
+    language: "pt-BR",
     socialImageAssetName: undefined,
     socialImageUrl: undefined,
     status: undefined,
