@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2025-10-20T22:15:34.089Z";
+      export const lastPublished = "2025-10-20T22:53:33.785Z";
 
       export const siteName = "Gabriel Marciel";
 
@@ -307,10 +307,10 @@ className={`w-element cfo00z7 cswjsmv ctj2579 curtkrh c1nxvpx9 cwuwcni c1my3rn`}
 className={`w-element c6vb952 ckfi1xt c17u4b8q c13lyfrw c9gmgxg cpqv1fw`}>
 {"Suporte de TI para micro e pequenas empresas"}
 </h1>
-<p
+<h2
 className={`w-element c1bc2myl cmc5btu clnphtk`}>
 {"Atendimento técnico ágil e empático, oferecendo soluções de Configuração de rede, Infraestrutura e Wordpress."}
-</p>
+</h2>
 </div>
 <div
 className={`w-element czefil0 c1ij51x0 c1oxnsbs c1rocagl ckenzg0 c1qn2tv9`}>

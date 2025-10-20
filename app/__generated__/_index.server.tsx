@@ -25,11 +25,15 @@ export const getResources = (_props: { system: System }) => {
     description: "Gabriel Marciel é analista de TI em Nova Iguaçu especializado em suporte técnico, configuração de rede, infraestrutura e desenvolvimento de sites WordPress para micro e pequenas empresas.",
     excludePageFromSearch: false,
     language: "pt-BR",
-    socialImageAssetName: undefined,
+    socialImageAssetName: "Gabriel-Marciel-Analista-de-TI-Wordpress-Nova-Igua_u_i-vHZG4OJHVHhM0IETwtx.webp",
     socialImageUrl: undefined,
     status: undefined,
     redirect: undefined,
     custom: [
+      {
+        property: "descrição",
+        content: "Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura",
+      },
     ],
   };
 };

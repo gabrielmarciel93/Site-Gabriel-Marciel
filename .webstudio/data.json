@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "3e098d9e-08e2-4600-a844-0ed45c16136c",
+    "id": "3c1d3be3-1126-440a-84f9-518839f0b741",
     "projectId": "8816130d-d432-4ad2-8116-915be45ca807",
-    "version": 27,
-    "createdAt": "2025-10-20T22:15:34.089+00:00",
-    "updatedAt": "2025-10-20T22:15:34.089+00:00",
+    "version": 43,
+    "createdAt": "2025-10-20T22:53:33.785+00:00",
+    "updatedAt": "2025-10-20T22:53:33.785+00:00",
     "pages": {
       "meta": {
         "siteName": "Gabriel Marciel",
@@ -22,7 +22,14 @@
         "meta": {
           "description": "\"Gabriel Marciel é analista de TI em Nova Iguaçu especializado em suporte técnico, configuração de rede, infraestrutura e desenvolvimento de sites WordPress para micro e pequenas empresas.\"",
           "excludePageFromSearch": "false",
-          "language": "\"pt-BR\""
+          "language": "\"pt-BR\"",
+          "socialImageAssetId": "170c25337e75f3ade2211dc33ff113e01a8f5ed39e8a6b2e4cc4c36588c7f02d",
+          "custom": [
+            {
+              "property": "descrição",
+              "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+            }
+          ]
         },
         "path": ""
       },
@@ -34,7 +41,13 @@
           "rootInstanceId": "KugctCkjaJAU3Q2IU5X7B",
           "meta": {
             "excludePageFromSearch": "false",
-            "status": "404"
+            "status": "404",
+            "custom": [
+              {
+                "property": "",
+                "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+              }
+            ]
           },
           "path": "/*"
         }
@@ -26556,7 +26569,7 @@
           "type": "instance",
           "id": "W2e-TdanJaiF-X5K-sNir",
           "component": "ws:element",
-          "tag": "p",
+          "tag": "h2",
           "children": [
             {
               "type": "text",
@@ -31344,7 +31357,14 @@
     "meta": {
       "description": "\"Gabriel Marciel é analista de TI em Nova Iguaçu especializado em suporte técnico, configuração de rede, infraestrutura e desenvolvimento de sites WordPress para micro e pequenas empresas.\"",
       "excludePageFromSearch": "false",
-      "language": "\"pt-BR\""
+      "language": "\"pt-BR\"",
+      "socialImageAssetId": "170c25337e75f3ade2211dc33ff113e01a8f5ed39e8a6b2e4cc4c36588c7f02d",
+      "custom": [
+        {
+          "property": "descrição",
+          "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+        }
+      ]
     },
     "path": ""
   },
@@ -31360,7 +31380,14 @@
       "meta": {
         "description": "\"Gabriel Marciel é analista de TI em Nova Iguaçu especializado em suporte técnico, configuração de rede, infraestrutura e desenvolvimento de sites WordPress para micro e pequenas empresas.\"",
         "excludePageFromSearch": "false",
-        "language": "\"pt-BR\""
+        "language": "\"pt-BR\"",
+        "socialImageAssetId": "170c25337e75f3ade2211dc33ff113e01a8f5ed39e8a6b2e4cc4c36588c7f02d",
+        "custom": [
+          {
+            "property": "descrição",
+            "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+          }
+        ]
       },
       "path": ""
     },
@@ -31371,12 +31398,31 @@
       "rootInstanceId": "KugctCkjaJAU3Q2IU5X7B",
       "meta": {
         "excludePageFromSearch": "false",
-        "status": "404"
+        "status": "404",
+        "custom": [
+          {
+            "property": "",
+            "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+          }
+        ]
       },
       "path": "/*"
     }
   ],
   "assets": [
+    {
+      "id": "170c25337e75f3ade2211dc33ff113e01a8f5ed39e8a6b2e4cc4c36588c7f02d",
+      "name": "Gabriel-Marciel-Analista-de-TI-Wordpress-Nova-Igua_u_i-vHZG4OJHVHhM0IETwtx.webp",
+      "projectId": "8816130d-d432-4ad2-8116-915be45ca807",
+      "size": 33642,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2025-10-20T22:40:24.841+00:00",
+      "meta": {
+        "width": 1200,
+        "height": 630
+      }
+    },
     {
       "id": "434cb6e44bb806ed33036bd727eb392e525987f1c712a4accf3ba2c2542f1cb3",
       "name": "svg-2_j4VDsemHmz0oKbj7lFFTc.svg",
