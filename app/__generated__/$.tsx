@@ -10,7 +10,7 @@ import { HtmlEmbed as HtmlEmbed } from "@webstudio-is/sdk-components-react";
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2025-10-29T19:49:47.781Z";
+      export const lastPublished = "2025-10-30T12:34:07.095Z";
 
       export const siteName = "Gabriel Marciel";
 

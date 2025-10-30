@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2025-10-29T19:49:47.781Z";
+      export const lastPublished = "2025-10-30T12:34:07.095Z";
 
       export const siteName = "Gabriel Marciel";
 
@@ -1111,7 +1111,7 @@ className={`w-element c6vb952 ckfi1xt cn1f0iv c17u4b8q c13lyfrw`}>
 </div>
 <p
 className={`w-element c6vb952 ckfi1xt`}>
-{"Sou Gabriel Marciel, profissional de tecnologia com experiência em desenvolvimento de sites, suporte em TI, análise de dados e design gráfico.Trabalho com ferramentas como WordPress, Microsoft Power BI, Office 365, Power Query, Figma e Adobe Creative Suite, N8N, unindo criatividade, visão analítica e foco em resultados."}
+{"Sou Gabriel Marciel, profissional de tecnologia com experiência em desenvolvimento de sites, suporte em TI, análise de dados e design gráfico. Trabalho com ferramentas como WordPress, Microsoft Power BI, Office 365, Power Query, Figma e Adobe Creative Suite, N8N, unindo criatividade, visão analítica e foco em resultados."}
 {""}
 <br />
 {""}
@@ -1119,7 +1119,7 @@ className={`w-element c6vb952 ckfi1xt`}>
 <br />
 {"Tenho habilidades em resolver problemas, otimizar processos e fortalecer a presença digital de empresas e profissionais, sempre buscando inovação e excelência."}
 <br />
-{"Aberto a conexões, parcerias e novas oportunidades nas áreas de tecnologia, design e análise de dados."}
+{" Aberto a conexões, parcerias e novas oportunidades nas áreas de tecnologia, design e análise de dados."}
 </p>
 <div
 className={`w-element c1ij51x0 c1a4zjes c1f82c0t cwyjow5 c1sht1gp`}>
