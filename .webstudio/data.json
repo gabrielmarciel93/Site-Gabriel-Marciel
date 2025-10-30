@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "247bf788-9512-455d-96e3-50b929da11a9",
+    "id": "2aae29c6-9bd4-4386-989d-d1b2afcb847d",
     "projectId": "8816130d-d432-4ad2-8116-915be45ca807",
     "version": 65,
-    "createdAt": "2025-10-29T19:49:47.781+00:00",
-    "updatedAt": "2025-10-29T19:49:47.781+00:00",
+    "createdAt": "2025-10-30T12:34:07.095+00:00",
+    "updatedAt": "2025-10-30T12:34:07.095+00:00",
     "pages": {
       "meta": {
         "siteName": "Gabriel Marciel",
@@ -28452,7 +28452,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Sou Gabriel Marciel, profissional de tecnologia com experiência em desenvolvimento de sites, suporte em TI, análise de dados e design gráfico. Trabalho com ferramentas como WordPress, Microsoft Power BI, Office 365, Power Query, Figma e Adobe Creative Suite, N8N, unindo criatividade, visão analítica e foco em resultados."
+              "value": "Sou Gabriel Marciel, profissional de tecnologia com experiência em desenvolvimento de sites, suporte em TI, análise de dados e design gráfico.Trabalho com ferramentas como WordPress, Microsoft Power BI, Office 365, Power Query, Figma e Adobe Creative Suite, N8N, unindo criatividade, visão analítica e foco em resultados."
             },
             {
               "type": "text",
@@ -28460,7 +28460,7 @@
             },
             {
               "type": "text",
-              "value": "\nTenho habilidades em resolver problemas, otimizar processos e fortalecer a presença digital de empresas e profissionais, sempre buscando inovação e excelência.\n Aberto a conexões, parcerias e novas oportunidades nas áreas de tecnologia, design e análise de dados."
+              "value": "\nTenho habilidades em resolver problemas, otimizar processos e fortalecer a presença digital de empresas e profissionais, sempre buscando inovação e excelência.\nAberto a conexões, parcerias e novas oportunidades nas áreas de tecnologia, design e análise de dados."
             }
           ]
         }
