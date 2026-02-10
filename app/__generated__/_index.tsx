@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2026-02-10T01:36:10.183Z";
+      export const lastPublished = "2026-02-10T01:56:06.880Z";
 
       export const siteName = "Gabriel Marciel";
 
@@ -1674,9 +1674,6 @@ className={`w-element c1ij51x0 cl8wq2q c1g9fj90 c1moyoxm c2k2dqt c107ynd2 c1a7a9
 className={`w-element c6vb952 ckfi1xt c17fnf6q`}>
 {"gabriel.marciel93@gmail.com"}
 </p>
-<Image
-src={"/assets/clipboard-text_(1)_v2Hxd4nPoxX75SZAfkIm9.svg"}
-className={`w-image c1xl6440`} />
 </Link>
 </div>
 <div

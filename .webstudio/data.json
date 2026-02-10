@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "ff54d6a5-ef0c-4486-9011-c3933a4c9102",
+    "id": "dbe941e7-f956-45a9-ab30-e478a741e606",
     "projectId": "8816130d-d432-4ad2-8116-915be45ca807",
-    "version": 121,
-    "createdAt": "2026-02-10T01:36:10.183+00:00",
-    "updatedAt": "2026-02-10T01:36:10.183+00:00",
+    "version": 122,
+    "createdAt": "2026-02-10T01:56:06.88+00:00",
+    "updatedAt": "2026-02-10T01:56:06.88+00:00",
     "pages": {
       "meta": {
         "siteName": "Gabriel Marciel",
@@ -16747,19 +16747,6 @@
         }
       ],
       [
-        "_rYuytPsZddOFrKK6lidH:Xb3sqS8dgX7awUL3SLT0r:width:",
-        {
-          "breakpointId": "Xb3sqS8dgX7awUL3SLT0r",
-          "styleSourceId": "_rYuytPsZddOFrKK6lidH",
-          "property": "width",
-          "value": {
-            "type": "unit",
-            "unit": "rem",
-            "value": 1.5
-          }
-        }
-      ],
-      [
         "lbOWSLgCPp8G5-dn8-w3V:Xb3sqS8dgX7awUL3SLT0r:color:",
         {
           "breakpointId": "Xb3sqS8dgX7awUL3SLT0r",
@@ -17835,13 +17822,6 @@
         {
           "type": "local",
           "id": "GFdjL8OQBEJBdh5h1r1Vw"
-        }
-      ],
-      [
-        "_rYuytPsZddOFrKK6lidH",
-        {
-          "type": "local",
-          "id": "_rYuytPsZddOFrKK6lidH"
         }
       ]
     ],
@@ -19156,15 +19136,6 @@
           "instanceId": "c6yIJzPk5rL2_IqjOmAkP",
           "values": [
             "GFdjL8OQBEJBdh5h1r1Vw"
-          ]
-        }
-      ],
-      [
-        "U7nZi39mQjPmfgZOB3IFG",
-        {
-          "instanceId": "U7nZi39mQjPmfgZOB3IFG",
-          "values": [
-            "_rYuytPsZddOFrKK6lidH"
           ]
         }
       ]
@@ -25546,16 +25517,6 @@
         }
       ],
       [
-        "MaVu0SNC5B_c1iKVkOBNa",
-        {
-          "id": "MaVu0SNC5B_c1iKVkOBNa",
-          "instanceId": "U7nZi39mQjPmfgZOB3IFG",
-          "name": "src",
-          "type": "asset",
-          "value": "22d98f55bb4d5997f013efbd4dc015e647031d5166c227f23378f949d7674f71"
-        }
-      ],
-      [
         "JSfYYb6PfopJjz6d2_1Fk",
         {
           "id": "JSfYYb6PfopJjz6d2_1Fk",
@@ -31487,10 +31448,6 @@
             {
               "type": "id",
               "value": "c6yIJzPk5rL2_IqjOmAkP"
-            },
-            {
-              "type": "id",
-              "value": "U7nZi39mQjPmfgZOB3IFG"
             }
           ]
         }
@@ -31508,15 +31465,6 @@
               "value": "gabriel.marciel93@gmail.com"
             }
           ]
-        }
-      ],
-      [
-        "U7nZi39mQjPmfgZOB3IFG",
-        {
-          "type": "instance",
-          "id": "U7nZi39mQjPmfgZOB3IFG",
-          "component": "Image",
-          "children": []
         }
       ]
     ],
