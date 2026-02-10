@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2026-02-10T01:56:06.880Z";
+      export const lastPublished = "2026-02-10T02:02:25.824Z";
 
       export const siteName = "Gabriel Marciel";
 
@@ -1669,7 +1669,7 @@ className={`w-element c17u4b8q c1ffxan7 c13lyfrw c6vb952 ckfi1xt cr3byfc`}>
 <Link
 href={"mailto:gabriel.marciel93@gmail.com"}
 target={"_blank"}
-className={`w-element c1ij51x0 cl8wq2q c1g9fj90 c1moyoxm c2k2dqt c107ynd2 c1a7a942 c1uj4ohc c14y3ez4 cg449kk c12cjwv5 c124ufeq cglnt5x clcfam c5520ea c15u2o4g c1set1eq c1a4zjes c1f82c0t c1jxhvcx c1iika90 cqckh90 cq92p79 cnzo85o c12us4cx c6c2543 cnizo2u`}>
+className={`w-element c1ij51x0 cl8wq2q c1g9fj90 c1moyoxm c2k2dqt c107ynd2 c1a7a942 c1uj4ohc c14y3ez4 cg449kk c12cjwv5 c124ufeq cglnt5x clcfam c5520ea c15u2o4g c1set1eq c1a4zjes c1f82c0t c1jxhvcx c1iika90 cqckh90 cq92p79 c1wsn2do cnzo85o c12us4cx c6c2543 cnizo2u`}>
 <p
 className={`w-element c6vb952 ckfi1xt c17fnf6q`}>
 {"gabriel.marciel93@gmail.com"}
