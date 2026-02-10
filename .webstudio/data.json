@@ -1,15 +1,15 @@
 {
   "build": {
-    "id": "2aae29c6-9bd4-4386-989d-d1b2afcb847d",
+    "id": "7b0e8f10-2b1e-45c1-bcb1-3870984757b5",
     "projectId": "8816130d-d432-4ad2-8116-915be45ca807",
-    "version": 65,
-    "createdAt": "2025-10-30T12:34:07.095+00:00",
-    "updatedAt": "2025-10-30T12:34:07.095+00:00",
+    "version": 73,
+    "createdAt": "2026-02-10T00:39:57.537+00:00",
+    "updatedAt": "2026-02-10T00:39:57.537+00:00",
     "pages": {
       "meta": {
         "siteName": "Gabriel Marciel",
         "faviconAssetId": "ac4b55072b1f73721e7366dc271fe3ea304b3cf264870b1a33cfdfd98bf11ee4",
-        "code": ""
+        "code": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-9MF547P8XX\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9MF547P8XX');\n</script>"
       },
       "homePage": {
         "id": "lB2UwEQJCY5vD-TodAGKw",
@@ -28,6 +28,10 @@
             {
               "property": "descrição",
               "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+            },
+            {
+              "property": "",
+              "content": "\"\""
             }
           ]
         },
@@ -31435,6 +31439,10 @@
         {
           "property": "descrição",
           "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+        },
+        {
+          "property": "",
+          "content": "\"\""
         }
       ]
     },
@@ -31458,6 +31466,10 @@
           {
             "property": "descrição",
             "content": "\"Analista e Suporte de TI em Nova Iguaçu | WordPress & Infraestrutura\""
+          },
+          {
+            "property": "",
+            "content": "\"\""
           }
         ]
       },

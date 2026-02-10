@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2025-10-30T12:34:07.095Z";
+      export const lastPublished = "2026-02-10T00:39:57.537Z";
 
       export const siteName = "Gabriel Marciel";
 
@@ -29,9 +29,24 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       
             
+            const Script = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <script {...props} />;
+              }
+
+              return <script {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            const Style = ({children, ...props}: Record<string, string | boolean>) => {
+              if (children == null) {
+                return <style {...props} />;
+              }
+
+              return <style {...props} dangerouslySetInnerHTML={{__html: children}} />;
+            };
+            
 
             export const CustomCode = () => {
-              return (<></>);
+              return (<><Script async src={"https://www.googletagmanager.com/gtag/js?id=G-9MF547P8XX"}></Script><Script>{"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9MF547P8XX');\n"}</Script></>);
             }
           
 
