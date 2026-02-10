@@ -1227,18 +1227,6 @@
   .c1t6qqwm {
     border-left: 0px solid var(--foreground-border)
   }
-  .cl8wq2q {
-    padding-left: 2rem
-  }
-  .c1g9fj90 {
-    padding-right: 2rem
-  }
-  .c1jxhvcx {
-    column-gap: var(--size-3)
-  }
-  .c1iika90 {
-    row-gap: var(--size-3)
-  }
   .c17u4950 {
     padding-bottom: var(--size-2)
   }
@@ -1341,6 +1329,21 @@
   }
   .c17vex0v {
     overflow-y: visible
+  }
+  .c1iika90 {
+    row-gap: var(--size-3)
+  }
+  .c1jxhvcx {
+    column-gap: var(--size-3)
+  }
+  .cl8wq2q {
+    padding-left: 2rem
+  }
+  .c1g9fj90 {
+    padding-right: 2rem
+  }
+  .cqckh90 {
+    color: AccentColorText
   }
 }
 @media all and (max-width: 991px) {
