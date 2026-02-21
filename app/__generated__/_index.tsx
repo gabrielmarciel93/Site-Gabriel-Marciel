@@ -11,7 +11,7 @@ import { Accordion as Accordion, AccordionItem as AccordionItem, AccordionHeader
 
       export const projectId = "8816130d-d432-4ad2-8116-915be45ca807";
 
-      export const lastPublished = "2026-02-10T02:02:25.824Z";
+      export const lastPublished = "2026-02-21T08:00:00.488Z";
 
       export const siteName = "Gabriel Marciel";
 
